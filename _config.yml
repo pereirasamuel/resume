@@ -10,7 +10,9 @@ name: Samuel Gonçalves Pereira
 title: Tech Lead | Sênior DevSecOps Engineer
 email: samuel@sgoncalves.tec.br
 website: sgoncalves.tec.br
-
+website_title: Website
+pdf: https://github.com/pereirasamuel/resume/blob/d470d1c67f3d13db1797d1bfaad7fbdaf241142f/assets/Resume.pdf
+pdf_title: PDF Download
 # Dark Mode (true/false/never)
 darkmode: false
 
@@ -33,8 +35,8 @@ youtube_username: samuelgoncalves
 # Additional icon links
 additional_links:
 - title: Resume PDF
-  icon: (fa-solid fa-file-pdf) (https://fontawesome.com/icons?d=gallery&m=free)
-  url: assets/Resume.pdf
+  icon:  (fab fa-pdf) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+  url: https://github.com/pereirasamuel/resume/blob/main/assets/Resume.pdf
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
@@ -244,33 +246,23 @@ content:
           The MBA in Data Science and IoT works on skills and competencies to specify, develop, and integrate embedded systems, web, and mobile using communication protocols and Cloud Computing. It also involves analyzing and generating useful business information using Data Science and BI techniques to subsequently assist companies in decision-making, minimizing costs, and improving organizational processes in a sustainable manner.
 
   - title: Certifications
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top
-        title: "LPIC-1"
-        sub_title: Linux Professional Institute
-        link: https://cs.lpi.org/caf/Xamman/candidate_area/certificate/LPIC-1/fsl2bflzuq        
-        link_text: Certificate
-      - layout: left
-        title: Ubiquiti Enterprise Wirelles Administration
-        sub_title: Ubiquiti Inc.
-        link: https://training.ubnt.com/mod/certificate/view.php?id=938&action=get
-        link_text: Certificate
-      - layout: left
-        title: "MTCRE: MikroTik Certified Routing Engineer"
-        sub_title: MikroTik
-        link: https://mikrotik.com/training/certificates/b119779c91692f378aab
-        link_text: Certificate
-      - layout: left
-        title: "MTCNA: MikroTik Certified Network Associate"
-        sub_title: MikroTik
-        link: https://mikrotik.com/training/certificates/b119779c91692f378aab
-        link_text: Certificate
-      - layout: left
-        title: "MTCTCE (MikroTik Certified Traffic Control Engineer)"
-        sub_title: MikroTik
-        link: https://mikrotik.com/training/certificates/b151967c813dc71b4c60               
-        link_text: Certificate
+    layout: text # Type of content section (list/text)
+    content: |
+      - **LPIC-1**
+      *Linux Professional Institute*
+      [Certificate](https://cs.lpi.org/caf/Xamman/candidate_area/certificate/LPIC-1/fsl2bflzuq)
+      - **Ubiquiti Enterprise Wirelles Administration**
+      *Ubiquiti Inc.*
+      [Certificate](https://training.ubnt.com/mod/certificate/view.php?id=938&action=get)
+      - **MTCRE: MikroTik Certified Routing Engineer**
+      *MikroTik*
+      [Certificate](https://mikrotik.com/training/certificates/b119779c91692f378aab)
+      - **MTCNA: MikroTik Certified Network Associate**
+      *MikroTik*
+      [Certificate](https://mikrotik.com/training/certificates/b119779c91692f378aab)
+      - **MTCTCE (MikroTik Certified Traffic Control Engineer)"**
+      *MikroTik*
+      [Certificate](https://mikrotik.com/training/certificates/b151967c813dc71b4c60) 
 
   - title: A Little More About Me
     layout: text
