@@ -3,7 +3,7 @@ repository: pereirasamuel/resume
 favicon: images/favicon.ico
 
 # Content configuration version
-version: 5
+version: 2
 
 # Personal info
 name: Samuel Gonçalves Pereira
@@ -12,10 +12,10 @@ email: samuel@sgoncalves.tec.br
 website: sgoncalves.tec.br
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
-twitter_username: o_sgoncalves
+#twitter_username: o_sgoncalves
 github_username:  pereirasamuel
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
