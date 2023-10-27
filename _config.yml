@@ -45,7 +45,7 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: [About Me](#about-me)
+about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   With over 10 years of experience in IT, I am driven by a passion to connect technology and people. I believe that true innovation occurs when we use technology to improve lives and create meaningful connections.
@@ -56,7 +56,7 @@ about_content: | # this will include new lines to allow paragraphs
   Beyond technology, I am a musician, short story writer, and have over 6000 students worldwide. My connections are my greatest treasure. Let's connect and explore how I can add value to your project or company!
 
 content:
-  - title: [Experience](#experience) # Title for the section
+  - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -228,7 +228,7 @@ content:
             - Active Directory (AD) Management
             - Firewall Security with iptables                      
 
-  - title: [Education](#education) # Title for the section
+  - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -248,7 +248,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           The MBA in Data Science and IoT works on skills and competencies to specify, develop, and integrate embedded systems, web, and mobile using communication protocols and Cloud Computing. It also involves analyzing and generating useful business information using Data Science and BI techniques to subsequently assist companies in decision-making, minimizing costs, and improving organizational processes in a sustainable manner.
 
-  - title: [A Little More About Me](#more-about-me)
+  - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Find out more about my work by following my content:
