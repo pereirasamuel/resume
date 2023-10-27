@@ -3,7 +3,7 @@ repository: pereirasamuel/resume
 favicon: images/favicon.ico
 
 # Content configuration version
-version: 4
+version: 5
 
 # Personal info
 name: Samuel Gonçalves Pereira
@@ -45,7 +45,7 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: About Me
+# about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   With over 10 years of experience in IT, I am driven by a passion to connect technology and people. I believe that true innovation occurs when we use technology to improve lives and create meaningful connections.
