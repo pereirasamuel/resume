@@ -17,6 +17,7 @@ darkmode: false
 # Social links
 #twitter_username: o_sgoncalves
 github_username:  pereirasamuel
+gitlab_username: o_sgoncalves
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -30,10 +31,7 @@ youtube_username: samuelgoncalves
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -246,16 +244,45 @@ content:
         description: | # this will include new lines to allow paragraphs
           The MBA in Data Science and IoT works on skills and competencies to specify, develop, and integrate embedded systems, web, and mobile using communication protocols and Cloud Computing. It also involves analyzing and generating useful business information using Data Science and BI techniques to subsequently assist companies in decision-making, minimizing costs, and improving organizational processes in a sustainable manner.
 
+  - title: Certifications
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: "LPIC-1"
+        sub_title: Linux Professional Institute
+        link: https://cs.lpi.org/caf/Xamman/candidate_area/certificate/LPIC-1/fsl2bflzuq        
+        link_text: Certificate
+      - layout: left
+        title: Ubiquiti Enterprise Wirelles Administration
+        sub_title: Ubiquiti Inc.
+        link: https://training.ubnt.com/mod/certificate/view.php?id=938&action=get
+        link_text: Certificate
+      - layout: left
+        title: "MTCRE: MikroTik Certified Routing Engineer"
+        sub_title: MikroTik
+        link: https://mikrotik.com/training/certificates/b119779c91692f378aab
+        link_text: Certificate
+      - layout: left
+        title: "MTCNA: MikroTik Certified Network Associate"
+        sub_title: MikroTik
+        link: https://mikrotik.com/training/certificates/b119779c91692f378aab
+        link_text: Certificate
+      - layout: left
+        title: "MTCTCE (MikroTik Certified Traffic Control Engineer)"
+        sub_title: MikroTik
+        link: https://mikrotik.com/training/certificates/b151967c813dc71b4c60               
+        link_text: Certificate
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Find out more about my work by following my content:
       - [My Udemy Couses](https://beacons.ai/sgoncalves)
       - [My Spotify Show](https://open.spotify.com/show/7IaegEiXEBrLHRnoFQ3A7k?si=v-tpkcZXR3u2BfYzq7cQ2w&dl_branch=1&nd=1)
-      - [My YouTube Channel](https://youtube.com/samuelgoncalves)
+      - [My YouTube Channel](https://youtube.com/samuelgoncalves)      
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
