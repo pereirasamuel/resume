@@ -57,7 +57,7 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: 4Linux
         link: 4linux.com.br
         # link_text: boringcompany.com
@@ -75,7 +75,7 @@ content:
             - Zabbix, Grafana, Prometheus
             - FreeIPA
             - Zimbra
-      - layout: left
+      - layout: top-middle
         title: 4Linux
         link: 4linux.com.br
         # link_text: boringcompany.com
@@ -84,7 +84,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           IT Consultant in the areas of Offensive Security and DevSecOps. Acting as a teacher of DevSecOps courses using FOSS tools to perform SAST and DAST such as Sonarqube and OWASP ZAP integrated with Jenkins, Security Compliance with OpenScap, Ansible Hardening, Ansible-Vault and AWX, Security Assessment in Docker environments with Clair and Docker Bench for Security, among others.
           Co-responsible for Develop on-premises and cloud infrastructure as code using automation tools like Ansible and Puppet, provision automated environments using Rundeck. Assessment and consultancy for firewall environments with pfSense and Security and vulnerability assessment.
-      - layout: left
+      - layout: top-middle
         title: Faculdade SENAI FATESG
         link: https://senaigoias.com.br/faculdade-fatesg
         # link_text: boringcompany.com
@@ -98,7 +98,7 @@ content:
             - Infrastructure: Ansible, Terraform, Linux
             - Cloud: Amazon Web Services
             - Linux Systems, RunDeck
-      - layout: left
+      - layout: top-middle
         title: Udemy
         link: https://www.udemy.com/
         # link_text: boringcompany.com
@@ -114,7 +114,7 @@ content:
             - Linux Fundamentals
             - Certification Preparation
             - Application Security
-      - layout: left
+      - layout: top-middle
         title: Indra
         link: https://www.indracompany.com/pt-br/
         sub_title: Senior Systems Engineer
@@ -132,7 +132,7 @@ content:
             - Nginx
             - Apache HTTPD
             - ModSecurity
-      - layout: left
+      - layout: top-middle
         title: SSA - São Salvador Alimentos
         link: https://ssa-br.com/
         sub_title: Network Analist
@@ -149,7 +149,7 @@ content:
             - Zimbra
             - Zabbix
             - IoT and Free Software
-      - layout: left
+      - layout: top-middle
         title: SSA - São Salvador Alimentos
         link: https://ssa-br.com/
         sub_title: Computer Support Analyst
@@ -161,7 +161,7 @@ content:
             - User support
             - System optimization
             - Data security
-      - layout: left
+      - layout: top-middle
         title: Educandário Evangélico
         link: https://educandarioev.com.br/
         sub_title: Computer Technician
@@ -176,7 +176,7 @@ content:
             - Media Editing
             - Network Management
             - User Support        
-      - layout: left
+      - layout: top-middle
         title: Prefeitura de Itaberai
         link: https://itaberai.go.gov.br/
         sub_title: Computer Technician
@@ -192,7 +192,7 @@ content:
             - Software programming and maintenance
             - Data recovery and backup
             - System development and management
-      - layout: left
+      - layout: top-middle
         title: Diocese de Goiás
         link: https://www.diocesedegoias.org.br/
         sub_title: Computer Technician
@@ -205,13 +205,13 @@ content:
             - Technical support and troubleshooting
             - Software programming and maintenance
             - Data recovery and backup
-      - layout: left
+      - layout: top-middle
         title: Instituto de Educação Aliança
         sub_title: Librarian
         caption: April 2013 - February 2014
         description: | # this will include new lines to allow paragraphs
           As a librarian at IEA, I specialized in the organization, preservation, and management of bibliographic collections. I was responsible for facilitating access to information, promoting knowledge dissemination, and encouraging reading. My role involved curating materials, cataloging, and public service, ensuring that information was accessible to all.
-      - layout: left
+      - layout: top-middle
         title: Instituto de Educação Aliança
         sub_title: Computer Technician
         caption: February 2010 - December 2012  
@@ -247,7 +247,7 @@ content:
   - title: Certifications
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top
         title: "LPIC-1"
         sub_title: Linux Professional Institute
         link: https://cs.lpi.org/caf/Xamman/candidate_area/certificate/LPIC-1/fsl2bflzuq        
