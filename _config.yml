@@ -12,10 +12,10 @@ email: samuel@sgoncalves.tec.br
 website: sgoncalves.tec.br
 
 # Dark Mode (true/false/never)
-darkmode: never
+darkmode: true
 
 # Social links
-#twitter_username: o_sgoncalves
+twitter_username: o_sgoncalves
 github_username:  pereirasamuel
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
